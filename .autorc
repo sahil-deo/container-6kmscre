@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "sahil-deo",
+  "repo": "container-6kmscre",
+  "name": "sahil-deo",
+  "email": "sahildeo616@gmail.com",
+}
